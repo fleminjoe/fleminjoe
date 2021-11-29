@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fleminjoe
-- 👀 I’m interested in coding,travel
-- 🌱 I’m currently learning react js
+- 👀 I’m interested in coding andtravel
+- 🌱 I’m currently learning react js and Node js
 - 💞️ I’m looking to collaborate on development
 - 📫 reach me @fleminjoe@gmail.com
 
